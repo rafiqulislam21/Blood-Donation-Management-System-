@@ -1,0 +1,7 @@
+Softwate password
+
+Admin user name = admin
+Admin password = 12345678
+
+donor user name = donor
+donor password = 12345678
