@@ -20,3 +20,6 @@ Providing accurate information about safe blood donation creating awareness.
 #Conclusion	
 
 We tried to solved a real world problem attempting to automate a process that was manual all this time. This automated system will modernize and make more efficient way of blood banks operation.
+
+
+![](blood.png)
